@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! I'm Mobin Yaghoobi Moghaddam 🖐</h1>
+<h1 align="center">Hi There🖐 I'm Mobin Yaghoobi Moghaddam </h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated GIF" />
@@ -10,8 +10,8 @@
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🤔 &nbsp; Sabzlearn Javascript Courses Coach
-- 🎓 &nbsp; Student of IT Subject In University
+- 🤖 &nbsp; Artificial Inteligence Programmer
+- 🎓 &nbsp; Student of CE Subject In University
 - 💼 &nbsp; Working as a Mern Stack Developer
 - 🌱 &nbsp; Learning Git & Github
 - ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
