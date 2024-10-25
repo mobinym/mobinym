@@ -1,20 +1,22 @@
-<h2>Hi There! I'm Mohammad Amin Saeedi Rad 🖐</h2>
+<h2>Hi There! I'm Mobin Yaghoobi Moghaddam 🖐</h2>
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🤔 &nbsp; Sabzlearn Javascript Courses Coach
-- 🎓 &nbsp; Student of IT Subject In University
-- 💼 &nbsp; Working as a Mern Stack Developer
-- 🌱 &nbsp; Learning Git & Github
+- 🤖 &nbsp; Artificial Intelligence
+- 💻 &nbsp; Student of CE Subject In University
+- 💼 &nbsp; Working as a AI Programmer
 - ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
 
 <h2>🔧 &nbsp; Tech Stack</h2>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="100" height="20">  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="100" height="20">  
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" width="100" height="20">  
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="100" height="20">
+
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -43,8 +45,8 @@
 <h2>⚡️ &nbsp; Github Stats</h2>
 
 <a href="https://github.com/sabzlearn-ir">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabzlearn-ir&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabzlearn-ir" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mobinym&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinym" />
 </a>
 
 <h2>📞 &nbsp; Connct Me </h2>
