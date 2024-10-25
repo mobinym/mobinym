@@ -1,4 +1,5 @@
-<h1 align="center">Hi There🖐 I'm Mobin Yaghoobi Moghaddam </h1>
+<h1 align="center">Hi There <img src="https://github.com/mobinym/mobinym/blob/0304c0c47c2e502369f5b1e6cde47946664362e0/Hand%20with%20Fingers%20Splayed%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="30"/> I'm Mobin Yaghoobi Moghaddam</h1>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated GIF" />
