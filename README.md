@@ -66,4 +66,7 @@
     <a href="https://www.linkedin.com/in/mobin-yaghoobi-moghaddam/" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Click to visit my LinkedIn" width="80" />
     </a>
+    <a href="https://t.me/MOBIN_YM" target="_blank" rel="noreferrer">
+        <img src="https://github.com/mobinym/mobinym/blob/295b749fb3cbe4b854b72fec8a87604167bb8db6/Telegram%20(1).gif" alt="Click to visit my Telegram" width="90" />
+    </a>
 </p>
