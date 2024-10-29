@@ -21,13 +21,13 @@
 <table align="center" width="80%">
   <tr>
     <td align="center" style="writing-mode: vertical-rl; text-align: center;">
-      <h3>Languages:</h3>
+      <h3>Languages</h3>
     </td>
     <td align="center" style="writing-mode: vertical-rl; text-align: center;">
-      <h3>Libraries:</h3>
+      <h3>Libraries</h3>
     </td>
     <td align="center" style="writing-mode: vertical-rl; text-align: center;">
-      <h3>Tools:</h3>
+      <h3>Tools</h3>
     </td>
   </tr>
   <tr>
