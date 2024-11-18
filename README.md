@@ -8,19 +8,20 @@
 
 <h3 align="center">👨‍💻 &nbsp; About Me</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEdv7McFFXj6uymHG/giphy.gif" width="30" alt="robot emoji" /> &nbsp; Artificial Intelligence Programmer <br>
-  <img src="https://media.giphy.com/media/3o6Zt5B34b7cONoU8I/giphy.gif" width="30" alt="graduation cap emoji" /> &nbsp; Student of Computer Engineering <br>
-  <img src="https://media.giphy.com/media/26xBvzmzqqkq3smfS/giphy.gif" width="30" alt="laptop emoji" /> &nbsp; Passionate about building innovative solutions with the latest technologies <br>
-  <img src="https://media.giphy.com/media/3oFzmoZweJcpVxSw6A/giphy.gif" width="30" alt="gear emoji" /> &nbsp; Always eager to learn and experiment with new tools and frameworks <br>
-  <img src="https://media.giphy.com/media/j5tHDEhX3TY5k/giphy.gif" width="30" alt="books emoji" /> &nbsp; Currently exploring the world of Machine Learning, Deep Learning, and Natural Language Processing <br>
-  <img src="https://media.giphy.com/media/xT0xemoylXk0tMLLMg/giphy.gif" width="30" alt="earth globe emoji" /> &nbsp; Enthusiast of open-source contributions and collaborating with the global developer community <br>
-  <img src="https://media.giphy.com/media/26xBvzmzqqkq3smfS/giphy.gif" width="30" alt="teacher emoji" /> &nbsp; Looking forward to making a positive impact through AI-driven projects and applications <br>
-  <img src="https://media.giphy.com/media/5vDlf7c52X4Ea5iJSJ/giphy.gif" width="30" alt="pen emoji" /> &nbsp; Enjoy writing technical blogs and sharing knowledge with others <br>
-  <img src="https://media.giphy.com/media/3o6fJcFdw5fQcx6zQs/giphy.gif" width="30" alt="bullseye emoji" /> &nbsp; Focused on solving real-world problems and making a positive difference through technology
+  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="30" alt="robot emoji" /> &nbsp; Artificial Intelligence Programmer <br>
+  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="30" alt="graduation cap emoji" /> &nbsp; Student of Computer Engineering <br>
+  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="30" alt="laptop emoji" /> &nbsp; Passionate about building innovative solutions with the latest technologies <br>
+  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="30" alt="gear emoji" /> &nbsp; Always eager to learn and experiment with new tools and frameworks <br>
+  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="30" alt="books emoji" /> &nbsp; Currently exploring the world of Machine Learning, Deep Learning, and Natural Language Processing <br>
+  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="30" alt="earth globe emoji" /> &nbsp; Enthusiast of open-source contributions and collaborating with the global developer community <br>
+  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="30" alt="teacher emoji" /> &nbsp; Looking forward to making a positive impact through AI-driven projects and applications <br>
+  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="30" alt="pen emoji" /> &nbsp; Enjoy writing technical blogs and sharing knowledge with others <br>
+  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="30" alt="bullseye emoji" /> &nbsp; Focused on solving real-world problems and making a positive difference through technology
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated GIF" />
 </p>
+
 
 
 
