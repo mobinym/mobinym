@@ -79,7 +79,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated GIF" />
 </p>
 
-<h2 align="center">⚡️ &nbsp; Github Stats</h2>
+
+<h2 align="center"> <img src="https://github.com/mobinym/mobinym/blob/main/Bar%20Chart.webp" width="30" alt="Check Mark Emoji" /> &nbsp;Github Stats</h2>
 
 <p align="center">
   <a href="https://github.com/mobinym">
@@ -92,7 +93,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated GIF" />
 </p>
 
-<h2 align="center"> <img src="https://github.com/mobinym/mobinym/raw/main/Check%20Mark%20Button.webp" width="30" alt="Check Mark Emoji" /> &nbsp; Connect with Me </h2>
+<h2 align="center"> <img src="https://github.com/mobinym/mobinym/blob/main/Telephone%20Receiver.webp" width="30" alt="Check Mark Emoji" /> &nbsp; Connect with Me </h2>
 
 
 <p align="center">
