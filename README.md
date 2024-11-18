@@ -8,13 +8,23 @@
 
 <h3 align="center">👨‍💻 &nbsp; About Me</h3>
 <p align="center">
-  - 🤖 &nbsp; Artificial Intelligence Programmer <br>
-  - 🎓 &nbsp; Student of Computer Engineering
+  <img src="https://media.giphy.com/media/3oEdv7McFFXj6uymHG/giphy.gif" width="30" alt="robot emoji" /> &nbsp; Artificial Intelligence Programmer <br>
+  <img src="https://media.giphy.com/media/3o6Zt5B34b7cONoU8I/giphy.gif" width="30" alt="graduation cap emoji" /> &nbsp; Student of Computer Engineering <br>
+  <img src="https://media.giphy.com/media/26xBvzmzqqkq3smfS/giphy.gif" width="30" alt="laptop emoji" /> &nbsp; Passionate about building innovative solutions with the latest technologies <br>
+  <img src="https://media.giphy.com/media/3oFzmoZweJcpVxSw6A/giphy.gif" width="30" alt="gear emoji" /> &nbsp; Always eager to learn and experiment with new tools and frameworks <br>
+  <img src="https://media.giphy.com/media/j5tHDEhX3TY5k/giphy.gif" width="30" alt="books emoji" /> &nbsp; Currently exploring the world of Machine Learning, Deep Learning, and Natural Language Processing <br>
+  <img src="https://media.giphy.com/media/xT0xemoylXk0tMLLMg/giphy.gif" width="30" alt="earth globe emoji" /> &nbsp; Enthusiast of open-source contributions and collaborating with the global developer community <br>
+  <img src="https://media.giphy.com/media/26xBvzmzqqkq3smfS/giphy.gif" width="30" alt="teacher emoji" /> &nbsp; Looking forward to making a positive impact through AI-driven projects and applications <br>
+  <img src="https://media.giphy.com/media/5vDlf7c52X4Ea5iJSJ/giphy.gif" width="30" alt="pen emoji" /> &nbsp; Enjoy writing technical blogs and sharing knowledge with others <br>
+  <img src="https://media.giphy.com/media/3o6fJcFdw5fQcx6zQs/giphy.gif" width="30" alt="bullseye emoji" /> &nbsp; Focused on solving real-world problems and making a positive difference through technology
 </p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated GIF" />
 </p>
+
+
+
+
 
 <h2 align="center">🔧 &nbsp; Skills</h2>
 
@@ -34,7 +44,9 @@
     <td align="center">
       <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />&nbsp;
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />&nbsp;
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />&nbsp;
@@ -55,7 +67,8 @@
       <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white" />&nbsp;
       <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white" />&nbsp;
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp;
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" />
     </td>
   </tr>
 </table>
