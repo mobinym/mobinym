@@ -6,7 +6,8 @@
 </p>
 
 
-<h3 align="center">👨‍💻 &nbsp; About Me</h3>
+<h3 align="center"> <img src="https://github.com/mobinym/mobinym/blob/main/Man%20Technologist.webp" width="30" alt="Check Mark Emoji" /> &nbsp; About Me</h3>
+
 <p align="center">
   <img src="https://github.com/mobinym/mobinym/blob/main/Robot%20(1).webp" width="20" alt="robot emoji" /> &nbsp; Artificial Intelligence Programmer <br>
   <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="20" alt="graduation cap emoji" /> &nbsp; Student of Computer Engineering <br>
@@ -28,7 +29,8 @@
 
 
 
-<h2 align="center">🔧 &nbsp; Skills</h2>
+
+<h2 align="center"> <img src="https://github.com/mobinym/mobinym/blob/main/Magnifying%20Glass%20Tilted%20Left.webp" width="30" alt="Check Mark Emoji" /> &nbsp; Skills</h2>
 
 <table align="center" width="80%">
   <tr>
