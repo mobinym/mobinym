@@ -8,15 +8,16 @@
 
 <h3 align="center">👨‍💻 &nbsp; About Me</h3>
 <p align="center">
-  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="20" alt="robot emoji" /> &nbsp; Artificial Intelligence Programmer <br>
+  <img src="https://github.com/mobinym/mobinym/blob/main/Robot%20(1).webp" width="20" alt="robot emoji" /> &nbsp; Artificial Intelligence Programmer <br>
   <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="20" alt="graduation cap emoji" /> &nbsp; Student of Computer Engineering <br>
-  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="20" alt="laptop emoji" /> &nbsp; Passionate about building innovative solutions with the latest technologies <br>
-  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="20" alt="gear emoji" /> &nbsp; Always eager to learn and experiment with new tools and frameworks <br>
-  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="20" alt="books emoji" /> &nbsp; Currently exploring the world of Machine Learning, Deep Learning, and Natural Language Processing <br>
-  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="20" alt="earth globe emoji" /> &nbsp; Enthusiast of open-source contributions and collaborating with the global developer community <br>
-  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="20" alt="teacher emoji" /> &nbsp; Looking forward to making a positive impact through AI-driven projects and applications <br>
-  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="20" alt="pen emoji" /> &nbsp; Enjoy writing technical blogs and sharing knowledge with others <br>
-  <img src="https://github.com/mobinym/mobinym/raw/main/Mechanical%20Arm.webp" width="20" alt="bullseye emoji" /> &nbsp; Focused on solving real-world problems and making a positive difference through technology
+  <img src="https://github.com/mobinym/mobinym/blob/main/Laptop.webp" width="20" alt="laptop emoji" /> &nbsp; Passionate about building innovative solutions with the latest technologies <br>
+  <img src="https://github.com/mobinym/mobinym/blob/main/Rocket.webp" width="20" alt="gear emoji" /> &nbsp; Always eager to learn and experiment with new tools and frameworks <br>
+  <img src="https://github.com/mobinym/mobinym/blob/main/Books.webp" width="20" alt="books emoji" /> &nbsp; Currently exploring the world of Machine Learning, Deep Learning, and Natural Language Processing <br>
+  <img src="https://github.com/mobinym/mobinym/blob/main/Top%20Arrow.webp" width="20" alt="earth globe emoji" /> &nbsp; Enthusiast of open-source contributions and collaborating with the global developer community <br>
+  <img src="https://github.com/mobinym/mobinym/blob/main/Briefcase.webp" width="20" alt="teacher emoji" /> &nbsp; Looking forward to making a positive impact through AI-driven projects and applications <br>
+  <img src="https://github.com/mobinym/mobinym/blob/main/Writing%20Hand.webp" width="20" alt="pen emoji" /> &nbsp; Enjoy writing technical blogs and sharing knowledge with others <br>
+  <img src="https://github.com/mobinym/mobinym/blob/main/Sports%20Medal.webp" width="20" alt="bullseye emoji" /> &nbsp; Focused on solving real-world problems and making a positive difference through technology
+  
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated GIF" />
@@ -91,7 +92,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated GIF" />
 </p>
 
-<h2 align="center">📫 &nbsp; Connect with Me</h2>
+<h2 align="center"> <img src="https://github.com/mobinym/mobinym/raw/main/Check%20Mark%20Button.webp" width="30" alt="Check Mark Emoji" /> &nbsp; Connect with Me </h2>
+
 
 <p align="center">
   <a href="https://www.instagram.com/mobin._.ym/" target="_blank" rel="noreferrer">
